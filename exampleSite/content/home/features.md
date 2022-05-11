@@ -4,11 +4,9 @@ weight = 10
 
 ## Resume
 
-
-<br>
 <br>
 
-[download here](https://github.com/nimabeh/nimabeh.github.io/hugo/images/Nima_Behravan_Resume.pdf)
+[download here](https://drive.google.com/file/d/1Sv2tpV9rTpombWaXCXxrYBO2lo2--aij/view?usp=sharing)
 
 ---
 
