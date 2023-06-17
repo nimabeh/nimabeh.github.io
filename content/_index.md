@@ -1,6 +1,6 @@
 +++
-title = "Nima Behravan Portfolio"
-description = "Work of Nima Behravan "
+title = "..."
+description = "Nima Behravan Designs"
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
@@ -10,10 +10,10 @@ transition = "slide"
 transition_speed = "fast"
 [reveal_hugo.templates.hotpink]
 class = "hotpink"
-background = "#27aae1"
+background = "#388291"
 +++
 
 
 # Nima Behravan
 
-Designer and Researcher
+Redesigner
