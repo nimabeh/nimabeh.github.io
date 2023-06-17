@@ -33,5 +33,5 @@ history = true
 
 # used in content/template-example
 [params.reveal_hugo.templates.grey]
-background = "#27aae1"
+background = "#368291"
 transition = "convex"
