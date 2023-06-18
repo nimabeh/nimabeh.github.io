@@ -3,7 +3,7 @@ weight = 10
 +++
 
 
-`(Re)Product Works`
+`Product Works`
 
 <br>
 </br>
@@ -12,12 +12,12 @@ weight = 10
 
 - Innovation Consultant at Food and Agriculture Organization of UN and presented workshops for +170 participants.
 
-- researched and designed interaction of [Power Plant](http://mfadt.parsons.edu/2016/blog/2016/04/25/power-plant/), master's thesis at Parsons School of Design.
+- Researched and designed interaction of [Power Plant](http://mfadt.parsons.edu/2016/blog/2016/04/25/power-plant/), master's thesis at Parsons School of Design.
 
 
 ---
 
-`(Re)Presenting Events`
+`Events and Exhibitions`
 
 <br>
 </br>
@@ -31,7 +31,7 @@ weight = 10
 
 ---
 
-`(Re)Figure Data`
+`Data-Driven Methods`
 
 <br>
 </br>
@@ -44,7 +44,7 @@ weight = 10
 
 ---
 
-`(Re)Publication Passion`
+`Avocation: Publications`
 
 <br>
 </br>
@@ -60,7 +60,7 @@ weight = 10
 ## 
 
 
-(re)view my [resume](https://drive.google.com/file/d/1mqJxFJ9hin7A6wvZ6d1uHWz3Z543bB0Z/view?usp=sharing) for more information,
+[Download resume](https://drive.google.com/file/d/1mqJxFJ9hin7A6wvZ6d1uHWz3Z543bB0Z/view?usp=sharing) for more information,
 
 
 and feel free to get in touch:
