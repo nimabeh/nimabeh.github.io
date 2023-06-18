@@ -15,9 +15,8 @@ background = "#368291"
 
 
 
-# To Design is Redesign
+# Nima Behravan
 
 <br>
 
-
-Hi, I’m Nima Behravan, a Redesigner.
+`(Re)Designer`

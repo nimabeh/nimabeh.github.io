@@ -3,31 +3,26 @@ weight = 10
 +++
 
 
-
-I work with `products`.
+`(Re)Product Works`
 
 <br>
 </br>
 
-- Founded [AABSOO](https://aabsoo.com/) vertical farming organization. (next photo)
+- Founded [AABSOO](https://aabsoo.com/) vertical farming organization.
 
 - Innovation Consultant at Food and Agriculture Organization of UN and presented workshops for +170 participants.
 
 - researched and designed interaction of [Power Plant](http://mfadt.parsons.edu/2016/blog/2016/04/25/power-plant/), master's thesis at Parsons School of Design.
 
----
-
-<img src="aabsoo.jpg" alt="AABSOO vertical farm">
-
 
 ---
 
-I talk about `interactions` and `experiences`. 
+`(Re)Presenting Events`
 
 <br>
 </br>
 
-- Presented AABSOO at VertiFarm, first summit of vertical farming in Dortmund. (next photo)
+- Presented AABSOO at VertiFarm, first summit of vertical farming in Dortmund.
 
 - Held +100 events and meetings for startup sector toward partneships as Business Developer at DMOND Accelerator.
 
@@ -35,25 +30,21 @@ I talk about `interactions` and `experiences`.
 
 
 ---
-<img src="vertifarm.jpg" alt="vertifarm exhibition">
 
----
-I use `Data` for many causes.
+`(Re)Figure Data`
 
 <br>
 </br>
 
-- Data Visualization for Tehran City Council Watch. (next photo)
+- Data Visualization for Tehran City Council Watch.
 
 - Developer of civic.nyc in partnership with Microsoft for University Transdisciplinary Lab at The New School.
 
 - Ms.Foundation Fellowship to Partner with Oregon Foundation for Reproductive Health. [(Documentation)](https://onekeyquestion.wordpress.com/) 
 
 ---
-<img src="dataviz.jpg" alt="Data Visualization for Tehran City Council Watch">
 
----
-I'm passionate about `publishing`.
+`(Re)Publication Passion`
 
 <br>
 </br>
@@ -68,18 +59,12 @@ I'm passionate about `publishing`.
 
 ## 
 
-Feel free to email me:
+
+(re)view my [resume](https://drive.google.com/file/d/1mqJxFJ9hin7A6wvZ6d1uHWz3Z543bB0Z/view?usp=sharing) for more information,
+
+
+and feel free to get in touch:
 
 behravan.nima@gmail.com
-
-<br>
-
-or review my resume:
-
-[download here](https://drive.google.com/file/d/1mqJxFJ9hin7A6wvZ6d1uHWz3Z543bB0Z/view?usp=sharing)
-
-<br>
-
-Thanks.
 
 
