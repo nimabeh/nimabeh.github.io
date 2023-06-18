@@ -10,10 +10,14 @@ transition = "slide"
 transition_speed = "fast"
 [reveal_hugo.templates.hotpink]
 class = "hotpink"
-background = "#388291"
+background = "#368291"
 +++
 
 
-# Nima Behravan
 
-Redesigner
+# To Design is Redesign
+
+<br>
+
+
+Hi, I’m Nima Behravan, a Redesigner.

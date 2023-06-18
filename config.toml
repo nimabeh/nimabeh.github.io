@@ -1,6 +1,6 @@
 baseURL = "https://nimabeh.github.io/"
 languageCode = "en-us"
-title = "Nima Behravan Port"
+title = "..."
 disableKinds = ["sitemap", "RSS"]
 theme = "."
 themesDir = "../"
