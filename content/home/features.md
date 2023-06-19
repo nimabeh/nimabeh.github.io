@@ -40,7 +40,7 @@ weight = 10
 
 - Developed civic.nyc in partnership with Microsoft for University Transdisciplinary Lab at The New School.
 
-- Partnered with Oregon Foundation for Reproductive HealthWon by Ms.Foundation Fellowship. [(Documentation)](https://onekeyquestion.wordpress.com/) 
+- Partnered with Oregon Foundation for Reproductive Health by Ms.Foundation Fellowship. [(Documentation)](https://onekeyquestion.wordpress.com/) 
 
 ---
 
