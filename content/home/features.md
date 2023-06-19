@@ -26,7 +26,7 @@ weight = 10
 
 - Held +100 events and meetings for startup sector toward partneships as Business Developer at DMOND Accelerator.
 
-- Designed an interactive environment for an open call exhibition in a gallery space. [(Video)](https://vimeo.com/312888235)
+- Designed and showed an interactive environment for an open call exhibition for 1 month in a gallery space. [(Video)](https://vimeo.com/312888235)
 
 
 ---
@@ -52,7 +52,7 @@ weight = 10
 - Designer by all means for [Scissors Publication](https://www.gheychi.net/) and [Bot](https://www.twitter.com/30zerMbot). 
 
 - Translation of [Carbon Map](https://www.carbonmap.org/) made possible at [Meidaan](https://meidaan.com/archive/author/nimabehravan).
-- Directed [PhotoBook Tehran](https://www.icp.org/events/photobook-tehran-opening-reception-1at) at Internation Center of Photography Library.
+- Directed [PhotoBook Tehran](https://www.icp.org/events/photobook-tehran-opening-reception-1at) at International Center of Photography Library.
 
 ---
 
