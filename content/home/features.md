@@ -8,21 +8,21 @@ weight = 10
 <br>
 </br>
 
-- Founded [AABSOO](https://aabsoo.com/) vertical farming organization.
+- Founded [AABSOO](https://aabsoo.com/) design and technology organization for farming, with products of plant-tech.
 
-- Innovation Consultant at Food and Agriculture Organization of UN and presented workshops for +170 participants.
+- Presented workshops for +170 participants as Innovation Consultant at Food and Agriculture Organization of UN.
 
 - Researched and designed interaction of [Power Plant](http://mfadt.parsons.edu/2016/blog/2016/04/25/power-plant/), master's thesis at Parsons School of Design.
 
 
 ---
 
-`Events and Exhibitions`
+`Event and Exhibition`
 
 <br>
 </br>
 
-- Presented AABSOO at VertiFarm, first summit of vertical farming in Dortmund.
+- Exhibited AABSOO in VertiFarm, first summit of vertical farming at Messe Dortmund.
 
 - Held +100 events and meetings for startup sector toward partneships as Business Developer at DMOND Accelerator.
 
@@ -31,39 +31,40 @@ weight = 10
 
 ---
 
-`Data-Driven Methods`
+`Data-Driven Consultation`
 
 <br>
 </br>
 
-- Data Visualization for Tehran City Council Watch.
+- Visualized Data for Tehran City Council Watch.
 
-- Developer of civic.nyc in partnership with Microsoft for University Transdisciplinary Lab at The New School.
+- Developed civic.nyc in partnership with Microsoft for University Transdisciplinary Lab at The New School.
 
-- Ms.Foundation Fellowship to Partner with Oregon Foundation for Reproductive Health. [(Documentation)](https://onekeyquestion.wordpress.com/) 
+- Partnered with Oregon Foundation for Reproductive HealthWon by Ms.Foundation Fellowship. [(Documentation)](https://onekeyquestion.wordpress.com/) 
 
 ---
 
-`Avocation: Publications`
+`Avocation: Publication`
 
 <br>
 </br>
 
-- Translation of [Carbon Map](https://www.carbonmap.org/) made possible at [Meidaan](https://meidaan.com/archive/author/nimabehravan).
-
 - Designer by all means for [Scissors Publication](https://www.gheychi.net/) and [Bot](https://www.twitter.com/30zerMbot). 
 
-- Director of [PhotoBook Tehran](https://www.icp.org/events/photobook-tehran-opening-reception-1at) at Internation Center of Photography Library.
+- Translation of [Carbon Map](https://www.carbonmap.org/) made possible at [Meidaan](https://meidaan.com/archive/author/nimabehravan).
+- Directed [PhotoBook Tehran](https://www.icp.org/events/photobook-tehran-opening-reception-1at) at Internation Center of Photography Library.
 
 ---
 
 ## 
 
+For more information
 
-[Download resume](https://drive.google.com/file/d/1mqJxFJ9hin7A6wvZ6d1uHWz3Z543bB0Z/view?usp=sharing) for more information,
+[download resume](https://drive.google.com/file/d/1mqJxFJ9hin7A6wvZ6d1uHWz3Z543bB0Z/view?usp=sharing)
 
+<br>
 
-and feel free to get in touch:
+Feel free to email me
 
 behravan.nima@gmail.com
 
