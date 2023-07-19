@@ -60,7 +60,7 @@ weight = 10
 
 For more information
 
-[download resume](https://drive.google.com/file/d/1OmzVqeFOkQpjdMq4gCfoYWpJ2c2Wi8mH/view?usp=sharing)
+[download resume](https://drive.google.com/file/d/1GnVNt8_hoejcnb8DaiVD_v8s3mDbHEty/view?usp=sharing)
 
 <br>
 
