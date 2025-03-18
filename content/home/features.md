@@ -49,9 +49,10 @@ weight = 10
 <br>
 </br>
 
-- Designer by all means for [Scissors Publication](https://www.gheychi.net/) and [Bot](https://www.twitter.com/30zerMbot). 
+- Designer by all means for Scissors Publication and [Bot](https://www.twitter.com/30zerMbot). 
 
-- Translation of [Carbon Map](https://www.carbonmap.org/) made possible at [Meidaan](https://meidaan.com/archive/author/nimabehravan).
+- Translation of [Carbon Map](https://www.carbonmap.org/) to Farsi made possible at Meidaan.
+  
 - Directed [PhotoBook Tehran](https://www.icp.org/events/photobook-tehran-opening-reception-1at) at International Center of Photography Library.
 
 ---
@@ -60,7 +61,7 @@ weight = 10
 
 For more information
 
-[download resume](https://drive.google.com/file/d/1GnVNt8_hoejcnb8DaiVD_v8s3mDbHEty/view?usp=sharing)
+[download resume](https://drive.google.com/file/d/1UReNoXllHPk_EGMh9zoMSY2HyCyeFXS1/view?usp=drive_link)
 
 <br>
 
