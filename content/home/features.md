@@ -59,13 +59,7 @@ weight = 10
 
 ## 
 
-For more information
-
-[download resume](https://drive.google.com/file/d/1Ugah17S_xcxVALBVo6JfdQHgdKO8Rd0N/view?usp=drivesdk)
-
-<br>
-
-Feel free to email me
+Feel free to reach out to talk about recent work
 
 behravan.nima@gmail.com
 
