@@ -9,7 +9,7 @@ themesDir = "../"
 # relativeURLs = true
 # uglyURLs = true
 
-[author]
+[params.author]
 name = "Nima Behravan"
 
 # currently only the unsafe mode for goldmark is supported
