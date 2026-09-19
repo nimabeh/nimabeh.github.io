@@ -5,7 +5,7 @@ export const SLIDES: SlideData[] = [
     id: 'cover',
     type: 'cover',
     title: 'Nima Behravan',
-    categoryTag: '(Re)Designer',
+    categoryTag: '(re)designer',
     statement: 'Systems and organisations change, and their design has to change with them. I redesign from what they have become, grounded in thinking and making.',
   },
   {

@@ -1,6 +1,6 @@
 {
-  "name": "Nima Behravan — (Re)Designer Portfolio",
-  "description": "Portfolio of Nima Behravan, (Re)Designer featuring AI works, product design, exhibitions, and data-driven consultation with responsive slide interaction and striped margin frame.",
+  "name": "Nima Behravan Works",
+  "description": "Portfolio of Nima Behravan, (re)designer featuring AI works, product design, exhibitions, and data-driven consultation with responsive slide interaction and striped margin frame.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

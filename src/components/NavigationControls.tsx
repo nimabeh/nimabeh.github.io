@@ -73,7 +73,7 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
                   {slides.map((s, idx) => {
                     const isCur = idx === currentIndex;
                     const label = s.type === 'cover'
-                      ? 'Intro / (Re)Designer'
+                      ? 'Intro / (re)designer'
                       : s.categoryTag || s.title || (s.type === 'contact' ? 'Contact' : `Page ${idx + 1}`);
 
                     return (
