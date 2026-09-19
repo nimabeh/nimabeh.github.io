@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-slab: 'Roboto Slab', serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    --font-sans: 'Roboto', sans-serif;
+  }
+
+  body {
+    font-family: var(--font-slab);
+    background-color: #fafaf9;
+    color: #18181b;
+  }
+
+  code, pre, .font-mono {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Striped Margin Box animations & textures */
+@keyframes stripeFlow {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 56px 0;
+  }
+}
+
+.stripe-animated {
+  background-size: 56px 56px !important;
+  animation: stripeFlow 4s linear infinite;
+}
+
+/* Custom scrollbar for slide content on very small screens */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 9999px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
