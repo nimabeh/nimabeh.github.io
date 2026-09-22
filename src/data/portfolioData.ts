@@ -49,9 +49,9 @@ export const SLIDES: SlideData[] = [
       },
       {
         id: 'torus-time-helix',
-        text: 'Reimagined Time as a single continuous helix on a torus, built with Google AI Studio. (code here)',
+        text: 'Reimagined time as a single continuous helix on a torus, built through AI-assisted development. (code here)',
         formattedParts: [
-          { text: 'Reimagined Time as a single continuous helix on a torus, built with Google AI Studio. (' },
+          { text: 'Reimagined time as a single continuous helix on a torus, built through AI-assisted development. (' },
           {
             text: 'code here',
             link: {
